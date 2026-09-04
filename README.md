@@ -6,7 +6,8 @@ Download the complete setup, follow the steps below, and start playing online th
 
 </div>
 <table> <tr> <td>
-📥 Download
+  
+### 📥 Download
 Battlefield 2 Complete Setup
 
 Size: ~3.6 GB
@@ -21,18 +22,21 @@ Press Windows + R, paste the link below into the Run window and press Enter.
 https://archive.org/download/battlefield-2-complete-setup/Battlefield2%20complete%20setup.zip
 
 </td> </tr> </table>
-🛠️ Installation
+
+### 🛠️ Installation
 <table> <tr> <td width="60">
 1️⃣
 </td> <td>
-Extract the ZIP
+  
+### Extract the ZIP
 
 Extract the downloaded ZIP file using 7-Zip, WinRAR, or another archive program.
 
 </td> </tr> <tr> <td>
 2️⃣
 </td> <td>
-Install Battlefield 2
+  
+### Install Battlefield 2
 
 Open the folder:
 
@@ -53,7 +57,8 @@ Then close the installer.
 </td> </tr> <tr> <td>
 3️⃣
 </td> <td>
-Install BF2Hub
+
+### Install BF2Hub
 
 Open the folder:
 
@@ -65,7 +70,8 @@ Run the BF2Hub Client installer and complete the installation.
 </td> </tr> <tr> <td>
 4️⃣
 </td> <td>
-Start Battlefield 2
+
+### Start Battlefield 2
 
 Open:
 
@@ -79,17 +85,19 @@ When you are in the game, create your Nickname and Password to play online.
 
 </td> </tr> </table>
 <table> <tr> <td>
-✅ Ready to Play!
+  
+### ✅ Ready to Play!
 
 Everything should now be set up and ready.
 
 Start BF2Hub → Battlefield 2 → Play
 
-🎮 Enjoy Battlefield 2!
+## 🎮 Enjoy Battlefield 2!
 
 </td> </tr> </table>
 <table> <tr> <td>
-❓ Questions or Problems?
+  
+### ❓ Questions or Problems?
 
 If you have any questions or run into a problem, you can create a Case / Issue in this GitHub repository.
 
