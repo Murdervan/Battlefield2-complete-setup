@@ -111,6 +111,7 @@ The files included in this setup are based on the following original sources:
 |---|---|
 | 🎮 Battlefield 2 | [BRStats – Battlefield 2 Downloads](https://brstats.com/?page=download&category=base) |
 | 🌐 BF2Hub | [BF2Hub – Downloads](https://www.bf2hub.com/home/downloads.php) |
+| 🏠 First Legion | [First Legion – Official Website](https://first-legion.eu/) |
 
 ---
 
