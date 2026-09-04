@@ -1,4 +1,4 @@
-🎮 Battlefield 2 – Complete Setup
+## 🎮 Battlefield 2 – Complete Setup
 <div align="center">
 A simple and easy way to get Battlefield 2 running
 
@@ -102,6 +102,7 @@ A screenshot if possible
 This makes it easier to help you.
 
 </td> </tr> </table>
+
 ## 🔗 Original Sources
 
 The files included in this setup are based on the following original sources:
