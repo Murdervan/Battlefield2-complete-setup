@@ -46,7 +46,7 @@ setup.exe
 
 When the installer asks for a License Key, click:
 
-🎲 Random
+Randomly
 
 Then close the installer.
 
@@ -102,14 +102,22 @@ A screenshot if possible
 This makes it easier to help you.
 
 </td> </tr> </table>
-🔗 Original Sources
-Component	Source
-🎮 Battlefield 2	BRStats – Battlefield 2 Downloads
-🌐 BF2Hub	BF2Hub – Downloads
-<div align="center">
-🎮 Battlefield 2 Complete Setup
+## 🔗 Original Sources
 
-Download → Install → Play
+The files included in this setup are based on the following original sources:
+
+| Component | Source |
+|---|---|
+| 🎮 Battlefield 2 | [BRStats – Battlefield 2 Downloads](https://brstats.com/?page=download&category=base) |
+| 🌐 BF2Hub | [BF2Hub – Downloads](https://www.bf2hub.com/home/downloads.php) |
+
+---
+
+<div align="center">
+
+### 🎮 Battlefield 2 Complete Setup
+
+**Download → Install → Play**
 
 ⭐ If this setup helped you, consider starring the repository.
 
