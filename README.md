@@ -24,7 +24,7 @@ https://archive.org/download/battlefield-2-complete-setup/Battlefield2%20complet
 
 </td> </tr> </table>
 
-## 🛠️ Installation
+## 🛠️ Installation guide
 <table> <tr> <td width="60">
 1️⃣
 </td> <td>
