@@ -4,7 +4,7 @@ A simple and easy way to get Battlefield 2 running
 
 Download the complete setup, follow the steps below, and start playing online through BF2Hub.
 
-</div>
+
 <table> <tr> <td>
   
 ### 📥 Download
@@ -14,6 +14,7 @@ Size: ~3.6 GB
 Format: ZIP
 
 <a href="https://archive.org/download/battlefield-2-complete-setup/Battlefield2%20complete%20setup.zip"> <img src="https://img.shields.io/badge/⬇️%20DOWNLOAD-COMPLETE%20SETUP-2ea44f?style=for-the-badge"> </a> </td> </tr> </table>
+</div>
 💻 Alternative Download – Windows Run
 <table> <tr> <td>
 
