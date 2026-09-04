@@ -24,12 +24,12 @@ https://archive.org/download/battlefield-2-complete-setup/Battlefield2%20complet
 
 </td> </tr> </table>
 
-### 🛠️ Installation
+## 🛠️ Installation
 <table> <tr> <td width="60">
 1️⃣
 </td> <td>
   
-### Extract the ZIP
+**Extract the ZIP**
 
 Extract the downloaded ZIP file using 7-Zip, WinRAR, or another archive program.
 
@@ -37,17 +37,15 @@ Extract the downloaded ZIP file using 7-Zip, WinRAR, or another archive program.
 2️⃣
 </td> <td>
   
-### Install Battlefield 2
+**Install Battlefield 2**
 
 Open the folder:
 
 bf2-game
 
-
 Then run:
 
 setup.exe
-
 
 When the installer asks for a License Key, click:
 
@@ -59,12 +57,11 @@ Then close the installer.
 3️⃣
 </td> <td>
 
-### Install BF2Hub
+**Install BF2Hub**
 
 Open the folder:
 
 bf2-client
-
 
 Run the BF2Hub Client installer and complete the installation.
 
@@ -72,7 +69,7 @@ Run the BF2Hub Client installer and complete the installation.
 4️⃣
 </td> <td>
 
-### Start Battlefield 2
+**Start Battlefield 2**
 
 Open:
 
