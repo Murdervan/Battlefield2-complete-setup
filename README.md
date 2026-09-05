@@ -19,9 +19,9 @@ Download the complete setup, follow the steps below, and start playing online th
 <table> <tr> <td>
 
 Press Windows + R, paste the link below into the Run window and press Enter.
-
+```powershell
 https://archive.org/download/battlefield-2-complete-setup/Battlefield2%20complete%20setup.zip
-
+```
 </td> </tr> </table>
 
 ## 🛠️ Installation guide
