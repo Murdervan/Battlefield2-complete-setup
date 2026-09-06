@@ -129,4 +129,6 @@ The files included in this setup are based on the following original sources:
 
 ⭐ If this setup helped you, consider starring the repository.
 
+**Works for Windows 10 and 11**
+
 </div>
