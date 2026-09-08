@@ -69,7 +69,7 @@ Run the BF2Hub Client installer and complete the installation.
 4️⃣
 </td> <td>
 
-**Start Battlefield 2**
+**Start BF2Hub client 1.8**
 
 Open:
 
