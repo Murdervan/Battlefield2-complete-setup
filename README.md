@@ -91,7 +91,7 @@ Everything should now be set up and ready.
 Start BF2Hub → Battlefield 2 → Play
 
 ## 🎮 Enjoy Battlefield 2!
-
+| 🌐 Check for ONLINE players | [BF2Hub – Server details](https://www.bf2hub.com/server/85.17.145.41:16567/) |
 </td> </tr> </table>
 <table> <tr> <td>
   
