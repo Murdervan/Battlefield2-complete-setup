@@ -1,3 +1,12 @@
+<div align="right">
+  
+  ### Check out my other 
+  
+  [![Repositories](https://img.shields.io/badge/Repositories-Murdervan-blue?style=for-the-badge&logo=github)](https://github.com/Murdervan?tab=repositories)
+</div>
+
+</div>
+
 # 🎮 Battlefield 2 – Complete Setup
 <div align="center">
 A simple and easy way to get Battlefield 2 running
